@@ -1,1 +1,1 @@
-# PythonSkrypt
+Łukasz Słoński 300156
